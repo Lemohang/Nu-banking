@@ -87,7 +87,7 @@ const MobileNav = ({ user }: MobileNavProps ) => {
                 </nav>
               </SheetClose>
 
-              <footer className="mt-auto text-center text-xs text-gray-400">Nu-Bank &copy; 2024</footer>
+              <footer className="mt-auto text-center text-xs text-gray-400">Nucleus-Bank&Finance &copy; 2024</footer>
             </div>
           </nav>
         </SheetContent>
